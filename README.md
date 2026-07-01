@@ -1,2 +1,2 @@
-# youtube_power_bi_egitim_veri_setleri
+# power_bi_youtube_egitim_veri_setleri
 Youtube eğitim veri setleri
